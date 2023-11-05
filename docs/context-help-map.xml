@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="canvas_communication_tools"
+               path="topics/canvas_communication_tools.html"/>
+   <appContext helpID="canvas_communicate_with_students"
+               path="topics/canvas_communicate_with_students.html"/>
+   <appContext helpID="announcements" path="topics/announcements.html"/>
+   <appContext helpID="add_an_announcement" path="topics/add_an_announcement.html"/>
+   <appContext helpID="edit_an_announcement" path="topics/edit_an_announcement.html"/>
+   <appContext helpID="calendar_communications"
+               path="topics/calendar_communications.html"/>
+   <appContext helpID="message_to_students_from_the_gradebook"
+               path="topics/message_to_students_from_the_gradebook.html"/>
+   <appContext helpID="use_the_inbox" path="topics/use_the_inbox.html"/>
+   <appContext helpID="learn_about_the_inbox" path="topics/learn_about_the_inbox.html"/>
+   <appContext helpID="how_to_use_the_inbox_as_an_instructor"
+               path="topics/how_to_use_the_inbox_as_an_instructor.html"/>
+   <appContext helpID="Untitled" path="topics/Send%20messages%20to%20students.html"/>
+   <appContext helpID="what_is_chat" path="topics/what_is_chat.html"/>
+</map>

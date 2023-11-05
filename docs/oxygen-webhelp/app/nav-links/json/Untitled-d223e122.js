@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"Untitled-d223e122":{"topics":[{"title":"What is chat?","shortdesc":"<p class=\"shortdesc\">Chat is a feature available for Canvas messaging.<\/p>","href":"topics\/what_is_chat.html","attributes":{"data-id":"what_is_chat"},"menu":{"hasChildren":false},"tocID":"what_is_chat-d223e133","topics":[]}]}};
